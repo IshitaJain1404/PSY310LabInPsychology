@@ -1,0 +1,12 @@
+﻿,Respond YES,Respond NO,,,,,
+Signal Present,Hit,Miss,,,,,
+Signal Absent,False Alarm,Correct Rejection,,,,,
+,,,,,,,
+,,,,proportion hit = hit/hit+miss ,0.7,,
+,,,,proportion false alarm = fa/fa+correct rejection,0.3,,
+,,,,,,,
+,,,,,,,
+,Respond YES,Respond No,,d prime = z(proportion hit) - z(proportion fa) ,0.951932436,,
+Signal Present ,62,26,,criterion = -z(proportion hit) = z(proportion fa)/2,-0.061552888,,"here, z is the use of function normsinv"
+Signal Absent,38,74,,,,,
+,,,,,"Since there was a minus sign in the formula and the value of C is negative, the responder had a bias to respond YES or they have a liberal bias",,
