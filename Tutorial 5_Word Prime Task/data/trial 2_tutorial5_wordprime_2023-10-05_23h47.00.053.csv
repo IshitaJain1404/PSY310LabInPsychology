@@ -1,0 +1,16 @@
+﻿study_words,test,textbox.text,,,,
+prime,c_sh_on,cushion,,,,
+non prime,c_m_r_,com,,,,
+non prime,_oo_,cook,incorrect,,,
+no prime,o_an_e,,,,,
+prime,_a_e,vase,,,,
+non prime,_o_s_,,,,,
+prime,_ian_,piano,,,,
+non prime,la_t_p,laptop,,,,
+prime,t_g_r,tiger,,,,
+,,,,,,
+,,,,,prime trials ,4
+,,,,,correct ,4
+,,,,,,
+,,,,,non prime trials ,5
+,,,,,correct,2
